@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Blank Template",
+    "name": "fuckin-weather",
     "slug": "fuckin-weather",
     "privacy": "public",
     "sdkVersion": "36.0.0",
@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "First application using React-native with Nicholas.",
+    "githubUrl": "https://github.com/sm991105/fuckin-weather"
   }
 }

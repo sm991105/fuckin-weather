@@ -48,7 +48,7 @@ const weatherOptions = {
     },
     Clear: {
         iconName:"weather-sunny",
-        gradient:["#FEF253", "#FF7300"],
+        gradient:["#7F7FD5","#86A8E7", "#91EAE4"],
         title: "Clear",
         subtitle: "Still, coronavirus!"
 
